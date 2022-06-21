@@ -7,4 +7,6 @@
 #from C++ to python
 #run with Python 3.6
 
-reference: Gabow, H. N., & Myers, E. W. (1978). Finding all spanning trees of directed and undirected graphs. SIAM Journal on Computing, 7(3), 280-287.
+#reference: Gabow, H. N., & Myers, E. W. (1978). Finding all spanning trees of directed and undirected graphs. SIAM Journal on Computing, 7(3), 280-287.
+
+#According to other users, this python code exist some bugs that cannot find all the spanning trees and needs further debug. 2022-06-21 16:37
